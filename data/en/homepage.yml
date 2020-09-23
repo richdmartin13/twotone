@@ -2,8 +2,8 @@
 banner:
   enable: true
   bg_image: images/background/banner.png
-  title: Take the work out of working from home
-  watermark: Build
+  title: Home and Business Tech Support, just for you.
+  watermark: Tech
   content: Your tech should work for you, <br> not the other way around
   image: images/banner/banner-1.png
   button:
