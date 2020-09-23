@@ -44,7 +44,7 @@ about:
       label: read more
       link: about
 promo_video:
-  enable: true
+  enable: false
   video_thumbnail: images/check-video.png
   video_link: https://www.youtube.com/watch?v=VufDd-QL1c0
   subtitle: Check Video
@@ -54,7 +54,7 @@ promo_video:
 
     Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident.
 testimonial:
-  enable: true
+  enable: false
   subtitle: testimonial
   title: What Our Clients Says?
   testimonial_item:
