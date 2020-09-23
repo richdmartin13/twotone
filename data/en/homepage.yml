@@ -4,8 +4,7 @@ banner:
   bg_image: images/background/banner.png
   title: Home and Business Tech Support
   watermark: Tech
-  content: Made just for you. Here at TwoTone Tech Support, we'll make sure your tech
-    stays out of the way.
+  content: Tech support, made simple.
   image: images/banner/banner-1.png
   button:
     enable: true
