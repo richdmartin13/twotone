@@ -12,29 +12,12 @@ banner:
     link: "#"
 partner:
   enable: false
-  partner_logo:
-  - images/partner/client-logo-1.png
-  - images/partner/client-logo-2.png
-  - images/partner/client-logo-3.png
-  - images/partner/client-logo-4.png
-  - images/partner/client-logo-5.png
+  partner_logo: []
 feature:
   enable: true
-  subtitle: fetures
-  title: exclusive features
-  feature_item:
-  - name: Free Trial
-    image: images/feature/feature-1.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
-  - name: No Setup
-    image: images/feature/feature-2.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
-  - name: Optimized Data
-    image: images/feature/feature-3.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
+  subtitle: Don't see something? Reach out and let us know.
+  title: Our Services
+  feature_item: []
 about:
   enable: true
   about_item:
