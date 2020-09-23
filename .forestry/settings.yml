@@ -4,20 +4,9 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
-- type: directory
-  path: content/french
-  label: French
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/english
-  label: English
-  create: all
+- type: document
+  path: data/en/homepage.yml
+  label: Home Page
   match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
