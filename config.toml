@@ -1,5 +1,5 @@
 baseURL = "https://twotone-fcafb.web.app/"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = "twotone"
 paginate = "6"
 summaryLength = "10"
