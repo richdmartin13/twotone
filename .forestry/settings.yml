@@ -25,6 +25,13 @@ sections:
   path: data/en/team.yml
   label: Team
   match: "**/*"
+- type: heading
+  label: Root Directory
+- type: directory
+  path: ''
+  label: TwoTone
+  create: all
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
