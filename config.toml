@@ -1,10 +1,10 @@
 baseURL = "https://twotone-fcafb.web.app/"
 disableLanguages = ["fr"]
-disqusShortname = "agico"
+disqusShortname = "twotone"
 paginate = "6"
 summaryLength = "10"
 theme = "agico-hugo"
-title = "Agico | App Landing Hugo Template"
+title = "TwoTone Tech Support"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
