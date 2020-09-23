@@ -12,19 +12,15 @@ sections:
 - type: document
   path: data/en/about.yml
   label: About
-  match: "**/*"
 - type: document
   path: data/en/pricing.yml
   label: Pricing
-  match: "**/*"
 - type: document
   path: data/en/service.yml
   label: Services
-  match: "**/*"
 - type: document
   path: data/en/team.yml
   label: Team
-  match: "**/*"
 - type: heading
   label: Root Directory
 - type: directory
