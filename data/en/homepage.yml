@@ -2,9 +2,9 @@
 banner:
   enable : true
   bg_image : "images/background/banner.png"
-  title : "Build Your Business Together"
+  title : "Take the work out of working from home"
   watermark : "Build"
-  content : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+  content : "Your tech should work for you, <br> not the other way around"
   image : "images/banner/banner-1.png"
   button:
     enable : true
