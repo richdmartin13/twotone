@@ -21,7 +21,7 @@ feature:
 about:
   enable: true
   about_item:
-  - image: images/about/about-1.png
+  - image: images/about/home.svg
     subtitle: Work from Home
     title: Home Support
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -32,7 +32,7 @@ about:
       enable: true
       label: see plans
       link: service
-  - image: images/about/about-2.png
+  - image: images/about/business.svg
     subtitle: Work Together
     title: Business Support
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
