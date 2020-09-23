@@ -8,7 +8,7 @@ banner:
   image: images/banner/banner-1.png
   button:
     enable: true
-    label: Get Agico
+    label: Learn more
     link: "#"
 partner:
   enable: false
