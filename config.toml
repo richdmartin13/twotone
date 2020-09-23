@@ -116,14 +116,14 @@ URL = "team"
 name = "Team"
 parent = "Pages"
 [params]
-address = "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
-author = "Themefisher"
+address = ""
+author = "DropByte | Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "info@agico.com"
+email = "support@twotonesupport.com"
 google_analitycs_id = "Your ID"
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = ""
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
