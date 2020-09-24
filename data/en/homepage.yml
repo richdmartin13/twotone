@@ -54,40 +54,10 @@ promo_video:
 
     Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident.
 testimonial:
-  enable: false
+  enable: true
   subtitle: testimonial
   title: What Our Clients Says?
-  testimonial_item:
-  - name: Alice kelly
-    designation: Happy client
-    content: Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam quis nostrud exercittion.ullamco laboris
-      nisi ut aliquip excepteur sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
-  - name: Alice kelly
-    designation: Happy client
-    content: Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam quis nostrud exercittion.ullamco laboris
-      nisi ut aliquip excepteur sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
-  - name: Alice kelly
-    designation: Happy client
-    content: Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam quis nostrud exercittion.ullamco laboris
-      nisi ut aliquip excepteur sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
-  - name: Alice kelly
-    designation: Happy client
-    content: Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam quis nostrud exercittion.ullamco laboris
-      nisi ut aliquip excepteur sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
-  - name: Alice kelly
-    designation: Happy client
-    content: Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam quis nostrud exercittion.ullamco laboris
-      nisi ut aliquip excepteur sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
+  testimonial_item: []
 download:
   enable: true
   title: Download Agico Now
