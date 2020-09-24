@@ -4,35 +4,17 @@ pricing:
   subtitle: Pricing table
   title: choose your plan
   pricing_table:
-  - title: Test
+  - title: Home
     price: "10"
-    unit: "$"
+    unit: hour
     description: sadfsad
     link: ''
     services:
     - sadfsedf
     - staff
-  - title: Basic
-    price: "$49"
-    unit: month
-    description: Best for small individuals
-    link: "#"
-    services:
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
-  - title: Professional
-    price: "$79"
-    unit: month
-    description: Best for small individuals
-    link: "#"
-    services:
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
   - title: Business
-    price: "$99"
-    unit: month
+    price: "$49"
+    unit: hour
     description: Best for small individuals
     link: "#"
     services:
