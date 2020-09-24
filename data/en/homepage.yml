@@ -56,7 +56,7 @@ promo_video:
 testimonial:
   enable: true
   subtitle: testimonial
-  title: What Our Clients Says?
+  title: Don't Just Take it From Us
   testimonial_item: []
 download:
   enable: true
