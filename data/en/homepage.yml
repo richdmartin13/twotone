@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/background/banner.png
   title: Home and Business Tech Support
-  watermark: Tech
+  watermark: TwoTone
   content: Tech support, made simple.
   image: images/banner/hero.svg
   button:
