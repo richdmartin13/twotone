@@ -21,6 +21,11 @@ feature:
 about:
   enable: true
   about_item:
+  - image: ''
+    subtitle: ''
+    title: Tech Management
+    content: Something about Tech Management
+    button: ''
   - image: images/about/home.svg
     subtitle: Work from Home
     title: Home Support
