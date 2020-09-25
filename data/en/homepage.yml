@@ -43,6 +43,17 @@ about:
       enable: true
       label: see plans
       link: service
+  - image: images/about/business.svg
+    subtitle: Rest and Relax
+    title: Tech Management
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
+      aute.
+    button:
+      enable: true
+      label: see plans
+      link: service
 promo_video:
   enable: false
   video_thumbnail: images/check-video.png
