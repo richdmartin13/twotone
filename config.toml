@@ -135,7 +135,7 @@ map_zoom = 17
 [params.navigation_button]
 enable = true
 label = "sign in"
-link = "#"
+link = "https://subscriptions.zoho.com/portal/twotonetechmanagement/login"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
