@@ -21,11 +21,6 @@ feature:
 about:
   enable: true
   about_item:
-  - image: ''
-    subtitle: ''
-    title: Tech Management
-    content: Something about Tech Management
-    button: ''
   - image: images/about/home.svg
     subtitle: Work from Home
     title: Home Support
@@ -64,7 +59,7 @@ testimonial:
   title: Don't Just Take it From Us
   testimonial_item: []
 download:
-  enable: true
+  enable: false
   title: Download Agico Now
   image: images/download-mobile-img.jpg
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
