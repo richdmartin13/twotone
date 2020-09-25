@@ -23,7 +23,7 @@ about:
   about_item:
   - image: images/about/home.svg
     subtitle: Work from Home
-    title: Home Support
+    title: For Home
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
       quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
@@ -34,7 +34,7 @@ about:
       link: service
   - image: images/about/business.svg
     subtitle: Work Together
-    title: Business Support
+    title: For Business
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
       quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
