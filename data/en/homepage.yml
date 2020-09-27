@@ -4,7 +4,9 @@ banner:
   bg_image: images/background/banner.png
   title: Home and Business Tech Support
   watermark: TwoTone
-  content: Tech support, made simple.
+  content: Get the most out of your technology, without it getting in the way. TwoTone
+    offers hourly and monthly services that make your tech work for you, not the other
+    way around.
   image: images/banner/hero.svg
   button:
     enable: true
