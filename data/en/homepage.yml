@@ -36,13 +36,14 @@ about:
   - image: images/about/business.svg
     subtitle: Work Together
     title: For Business
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
-      aute.
+    content: Get tech out of the way of your business operations and improve the efficiency
+      of your employees. Implement powerful business technologies from communications
+      systems to business software. Advertise your business with a website or a profile
+      on platforms like Facebook, LinkedIn, or Google. With all these services and
+      more, you can focus on your business and let TwoTone handle the rest.
     button:
       enable: true
-      label: see plans
+      label: Learn More
       link: service
   - image: images/about/relax.svg
     subtitle: Rest and Relax
