@@ -48,10 +48,9 @@ about:
   - image: images/about/relax.svg
     subtitle: Rest and Relax
     title: Tech Management
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
-      aute.
+    content: Join our Tech Management program and save on several of our services
+      with discounts and get access to exclusive services, too. TwoTone Tech Management
+      puts your devices in our hands so that you can focus on what matters.
     button:
       enable: true
       label: see plans
