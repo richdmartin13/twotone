@@ -39,7 +39,7 @@ feature:
     name: ''
     image: ''
   - title: Smart Home & AV Setup
-    icon: ''
+    icon: fa-home
     icon_color: ''
     content: ''
     name: ''
