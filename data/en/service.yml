@@ -5,7 +5,7 @@ service:
   title: Our Service Area
   service_item:
   - title: Network & Data Services
-    icon: fa-object-ungroup
+    icon: fa-wifi
     icon_color: primary
     content: Lorem ipsum dolor sit amet consectetur elit sed do
   - title: Business Presence & Professional Media
