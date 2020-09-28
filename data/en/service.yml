@@ -4,6 +4,11 @@ service:
   subtitle: Services
   title: Our Service Area
   service_item:
+  - title: Custom Computer Setup
+    icon: fa-desktop
+    icon_color: cyan
+    content: Perfect for gaming, servers, or every day use. Get a computer designed
+      specifically for your needs
   - title: Tech Tutorials
     icon: fa-graduation-cap
     icon_color: yellow
