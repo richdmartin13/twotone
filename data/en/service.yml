@@ -24,14 +24,6 @@ service:
     icon: fa-comments
     icon_color: red
     content: Lorem ipsum dolor sit amet consectetur elit sed do
-  - title: SEO Optimization
-    icon: fa-search-plus
-    icon_color: green
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
-  - title: Usability Testing
-    icon: fa-line-chart
-    icon_color: orange
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
   - title: Smart Home & AV Setup
     icon: fa-wpexplorer
     icon_color: blue
