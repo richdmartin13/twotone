@@ -7,7 +7,8 @@ service:
   - title: Network & Data Services
     icon: fa-wifi
     icon_color: primary
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
+    content: Network configuration and setup, online backups, data recovery and transfer
+      & more
   - title: Business Presence & Professional Media
     icon: fa-users
     icon_color: yellow
