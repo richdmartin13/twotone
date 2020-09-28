@@ -66,7 +66,7 @@ promo_video:
 
     Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident.
 testimonial:
-  enable: false
+  enable: true
   subtitle: testimonial
   title: Don't Just Take it From Us
   testimonial_item:
