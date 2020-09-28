@@ -44,7 +44,7 @@ service:
     icon_color: yellow
     content: Tutorials for any device or software available on request
 feature:
-  enable: true
+  enable: false
   subtitle: fetures
   title: exclusive features
   feature_item:
