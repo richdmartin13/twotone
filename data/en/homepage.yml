@@ -27,13 +27,13 @@ feature:
     name: ''
     image: ''
   - title: Business Presence & Professional Media
-    icon: ''
+    icon: fa-building
     icon_color: ''
     content: ''
     name: ''
     image: ''
   - title: Website & Domain Services
-    icon: ''
+    icon: fa-globe
     icon_color: ''
     content: ''
     name: ''
