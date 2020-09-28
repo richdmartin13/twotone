@@ -12,7 +12,8 @@ service:
   - title: Business Presence & Professional Media
     icon: fa-users
     icon_color: yellow
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
+    content: Business profiles on Google, Facebook, and LinkedIn. Photo & Video for
+      business and products.
   - title: Computer & Device Support
     icon: fa-desktop
     icon_color: purple
