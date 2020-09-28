@@ -26,13 +26,12 @@ about:
   - image: images/about/home.svg
     subtitle: Work from Home
     title: For Home
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
-      aute.
+    content: Get everything that you need and more for your home. Set up a new home
+      office, enhance your lifestyle with smart home appliances, or improve your home
+      theater. Just need help with your computer? We can do that, too.
     button:
       enable: true
-      label: see plans
+      label: Learn More
       link: service
   - image: images/about/business.svg
     subtitle: Work Together
@@ -67,7 +66,7 @@ promo_video:
 
     Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident.
 testimonial:
-  enable: true
+  enable: false
   subtitle: testimonial
   title: Don't Just Take it From Us
   testimonial_item:
