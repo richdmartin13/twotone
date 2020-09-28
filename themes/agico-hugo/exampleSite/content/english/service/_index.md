@@ -5,5 +5,5 @@ watermark: "Service"
 # page header background image
 bg_image: "images/background/about.jpg"
 # meta description
-description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+description : "Listed below are our main categories for services offered. <br> Please note that some services listed may only be available under a <br> TwoTone Tech Management subscription."
 ---
