@@ -8,7 +8,7 @@ service:
     icon: fa-object-ungroup
     icon_color: primary
     content: Lorem ipsum dolor sit amet consectetur elit sed do
-  - title: Online Business Presence & Professional Media
+  - title: Business Presence & Professional Media
     icon: fa-users
     icon_color: yellow
     content: Lorem ipsum dolor sit amet consectetur elit sed do
