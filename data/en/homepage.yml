@@ -90,3 +90,25 @@ download:
     link: "#"
 pricing:
   enable: true
+  pricing_table:
+  - title: For Home (Hourly)
+    price: "0"
+    unit: hour
+    services: ''
+  - title: For Home (Monthly)
+    price: "0"
+    unit: month
+    link: ''
+    services: ''
+  - title: For Business (Hourly)
+    price: "0"
+    unit: hour
+    description: ''
+    link: ''
+    services: ''
+  - title: For Business (Monthly)
+    price: "0"
+    unit: month
+    description: ''
+    link: ''
+    services: ''
