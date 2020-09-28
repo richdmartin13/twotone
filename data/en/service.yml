@@ -4,15 +4,6 @@ service:
   subtitle: Services
   title: Our Service Area
   service_item:
-  - title: Custom Computer Setup
-    icon: fa-desktop
-    icon_color: cyan
-    content: Perfect for gaming, servers, or every day use. Get a computer designed
-      specifically for your needs
-  - title: Tech Tutorials
-    icon: fa-graduation-cap
-    icon_color: yellow
-    content: Tutorials for any device or software available on request
   - title: Network & Data Services
     icon: fa-wifi
     icon_color: primary
@@ -24,7 +15,7 @@ service:
     content: Business profiles on Google, Facebook, and LinkedIn. Photo & Video for
       business and products.
   - title: Computer & Device Support
-    icon: fa-desktop
+    icon: fa-mobile
     icon_color: purple
     content: Device health and recommendations, device setup and repair, troubleshooting
       and repair
@@ -43,6 +34,15 @@ service:
     icon_color: blue
     content: TV and home theater setup, smart home appliance recommendations and setup,
       and home office setup
+  - title: Custom Computer Setup
+    icon: fa-desktop
+    icon_color: cyan
+    content: Perfect for gaming, servers, or every day use. Get a computer designed
+      specifically for your needs
+  - title: Tech Tutorials
+    icon: fa-graduation-cap
+    icon_color: yellow
+    content: Tutorials for any device or software available on request
 feature:
   enable: true
   subtitle: fetures
