@@ -30,9 +30,10 @@ service:
     content: VOIP phone system setup, video meetings and messaging, password management,
       and office software setup
   - title: Smart Home & AV Setup
-    icon: fa-wpexplorer
+    icon: fa-home
     icon_color: blue
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
+    content: TV and home theater setup, smart home appliance recommendations and setup,
+      and home office setup
 feature:
   enable: true
   subtitle: fetures
