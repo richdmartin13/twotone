@@ -20,121 +20,37 @@ feature:
   subtitle: Find what you need and more
   title: Our Services
   feature_item:
-  - title: Office Software
+  - title: Office & Communications Software
     icon: ''
     icon_color: ''
     content: ''
     name: ''
     image: ''
-  - title: Professional Media
+  - title: Business Presence & Professional Media
     icon: ''
     icon_color: ''
     content: ''
     name: ''
     image: ''
-  - title: Online Business Presence
+  - title: Website & Domain Services
     icon: ''
     icon_color: ''
     content: ''
     name: ''
     image: ''
-  - title: Device Backups
+  - title: Smart Home & AV Setup
     icon: ''
     icon_color: ''
     content: ''
     name: ''
     image: ''
-  - title: Password Management
+  - title: Network & Data Services
     icon: ''
     icon_color: ''
     content: ''
     name: ''
     image: ''
-  - title: VOIP Phone Systems
-    icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-  - title: Company Communications
-    icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-  - title: Website
-    icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-  - icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-    title: File Sharing
-  - title: Custom Domains & Email
-    icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-  - title: Tech Tutorials
-    icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-  - title: Smart Home
-    icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-  - icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-    title: Custom PC Gaming
-  - title: Audio & Video
-    icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-  - title: Mobile & Tablets
-    icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-  - title: Data Services
-    icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-  - title: Network & Wifi
-    icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-  - title: Online Services
-    icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-  - title: Home Office & School
-    icon: ''
-    icon_color: ''
-    content: ''
-    name: ''
-    image: ''
-  - title: Computer Support
+  - title: Computer & Device Support
     icon: ''
     icon_color: ''
     content: ''
