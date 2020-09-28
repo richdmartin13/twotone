@@ -4,6 +4,10 @@ service:
   subtitle: Services
   title: Our Service Area
   service_item:
+  - title: Tech Tutorials
+    icon: fa-graduation-cap
+    icon_color: yellow
+    content: Tutorials for any device or software available on request
   - title: Network & Data Services
     icon: fa-wifi
     icon_color: primary
