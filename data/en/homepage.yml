@@ -21,7 +21,7 @@ feature:
   title: Our Services
   feature_item:
   - title: Office & Communications Software
-    icon: ''
+    icon: fa-briefcase
     icon_color: ''
     content: ''
     name: ''
