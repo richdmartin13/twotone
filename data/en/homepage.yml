@@ -45,13 +45,13 @@ feature:
     name: ''
     image: ''
   - title: Network & Data Services
-    icon: ''
+    icon: fa-wifi
     icon_color: ''
     content: ''
     name: ''
     image: ''
   - title: Computer & Device Support
-    icon: ''
+    icon: fa-desktop
     icon_color: ''
     content: ''
     name: ''
