@@ -19,43 +19,7 @@ feature:
   enable: true
   subtitle: Find what you need and more
   title: Our Services
-  feature_item:
-  - title: Office & Communications Software
-    icon: "fa-briefcase"
-    icon_color: "primary"
-    content: ''
-    name: ''
-    image: ''
-  - title: Business Presence & Professional Media
-    icon: "fa-building"
-    icon_color: "primary"
-    content: ''
-    name: ''
-    image: ''
-  - title: Website & Domain Services
-    icon: "fa-globe"
-    icon_color: "primary"
-    content: ''
-    name: ''
-    image: ''
-  - title: Smart Home & AV Setup
-    icon: "fa-home"
-    icon_color: "primary"
-    content: ''
-    name: ''
-    image: ''
-  - title: Network & Data Services
-    icon: "fa-wifi"
-    icon_color: "primary"
-    content: ''
-    name: ''
-    image: ''
-  - title: Computer & Device Support
-    icon: "fa-desktop"
-    icon_color: "primary"
-    content: ''
-    name: ''
-    image: ''
+  feature_item: []
 about:
   enable: true
   about_item:
