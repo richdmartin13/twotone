@@ -22,37 +22,37 @@ feature:
   feature_item:
   - title: Office & Communications Software
     icon: "fa-briefcase"
-    icon_color: ''
+    icon_color: "primary"
     content: ''
     name: ''
     image: ''
   - title: Business Presence & Professional Media
     icon: "fa-building"
-    icon_color: ''
+    icon_color: "primary"
     content: ''
     name: ''
     image: ''
   - title: Website & Domain Services
     icon: "fa-globe"
-    icon_color: ''
+    icon_color: "primary"
     content: ''
     name: ''
     image: ''
   - title: Smart Home & AV Setup
     icon: "fa-home"
-    icon_color: ''
+    icon_color: "primary"
     content: ''
     name: ''
     image: ''
   - title: Network & Data Services
     icon: "fa-wifi"
-    icon_color: ''
+    icon_color: "primary"
     content: ''
     name: ''
     image: ''
   - title: Computer & Device Support
     icon: "fa-desktop"
-    icon_color: ''
+    icon_color: "primary"
     content: ''
     name: ''
     image: ''
