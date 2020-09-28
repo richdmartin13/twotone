@@ -22,7 +22,8 @@ service:
   - title: Website & Domain Services
     icon: fa-cloud
     icon_color: cyan
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
+    content: Domain acquisition and setup, domain email, and website creation and
+      setup
   - title: Business Software & Communications
     icon: fa-comments
     icon_color: red
