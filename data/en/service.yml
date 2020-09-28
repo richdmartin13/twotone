@@ -17,7 +17,8 @@ service:
   - title: Computer & Device Support
     icon: fa-desktop
     icon_color: purple
-    content: Lorem ipsum dolor sit amet consectetur elit sed do
+    content: Device health and recommendations, device setup and repair, troubleshooting
+      and repair
   - title: Website & Domain Services
     icon: fa-cloud
     icon_color: cyan
