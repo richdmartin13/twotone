@@ -28,7 +28,7 @@ service:
     icon: fa-home
     icon_color: blue
     content: ''
-  - title: Custom Computer Setup
+  - title: Smart Home
     icon: fa-desktop
     icon_color: cyan
     content: Perfect for gaming, servers, or every day use. Get a computer designed
