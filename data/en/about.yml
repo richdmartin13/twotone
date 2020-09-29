@@ -18,7 +18,7 @@ funfacts:
   enable: true
   funfact_item:
   - name: Requests resolved
-    count: "220"
+    count: "250"
   - name: Businesses with Tech Management
     count: "1"
   - name: Files recovered
