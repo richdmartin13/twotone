@@ -4,7 +4,7 @@ service:
   subtitle: Services
   title: Our Service Area
   service_item:
-  - title: Network & Data Services
+  - title: Computer Support
     icon: fa-wifi
     icon_color: primary
     content: Network configuration and setup, online backups, data recovery and transfer
@@ -44,7 +44,7 @@ service:
     icon_color: yellow
     content: Tutorials for any device or software available on request
 feature:
-  enable: false
+  enable: true
   subtitle: fetures
   title: exclusive features
   feature_item:
