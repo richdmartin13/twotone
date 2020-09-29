@@ -5,9 +5,9 @@ pricing:
   title: choose your plan
   pricing_table:
   - title: Home
-    price: "10"
+    price: "$60"
     unit: hour
-    description: sadfsad
+    description: ''
     link: ''
     services:
     - sadfsedf
