@@ -4,7 +4,7 @@ service:
   subtitle: Services
   title: What can we do for you?
   service_item:
-  - title: Device recomendations
+  - title: Device Recomendations
     icon: ''
     icon_color: ''
     content: ''
