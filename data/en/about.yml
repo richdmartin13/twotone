@@ -19,7 +19,7 @@ funfacts:
   funfact_item:
   - name: Requests resolved
     count: "250"
-  - name: Businesses with Tech Management
+  - name: Businesses Covered By Tech Management
     count: "1"
   - name: Files recovered
     count: "20000"
