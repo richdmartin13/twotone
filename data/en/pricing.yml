@@ -9,9 +9,7 @@ pricing:
     unit: hour
     description: ''
     link: ''
-    services:
-    - sadfsedf
-    - staff
+    services: []
   - title: Business
     price: "$49"
     unit: hour
