@@ -180,6 +180,3 @@ link = "https://www.instagram.com/twotonesupport/"
 [[params.social]]
 icon = "fa-twitter"
 link = "https://twitter.com/twotonesupport"
-[[params.social]]
-icon = "fa-github"
-link = "https://github.com/themefisher"
