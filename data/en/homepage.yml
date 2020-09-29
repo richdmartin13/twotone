@@ -46,9 +46,9 @@ about:
       label: see plans
       link: service
   - image: images/about/relax.svg
-    subtitle: Don't let your tech hold you back
+    subtitle: ''
     title: Tech Management
-    content: Technology should streamline your workday, not be a hassle.
+    content: ''
     button:
       enable: true
       label: see plans
