@@ -23,7 +23,7 @@ funfacts:
     count: "1"
   - name: Files recovered
     count: "20000"
-  - name: People behind this app
-    count: "80"
+  - name: Services offered
+    count: "50"
 service:
   enable: true
