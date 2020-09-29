@@ -15,8 +15,7 @@ service:
   - title: Data Services
     icon: fa-mobile
     icon_color: purple
-    content: Device health and recommendations, device setup and repair, troubleshooting
-      and repair
+    content: ''
   - title: Website & Domain Services
     icon: fa-cloud
     icon_color: cyan
