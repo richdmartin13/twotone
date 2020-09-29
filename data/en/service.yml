@@ -16,7 +16,7 @@ service:
     icon: fa-mobile
     icon_color: purple
     content: ''
-  - title: Website & Domain Services
+  - title: Smartphone & Tablets
     icon: fa-cloud
     icon_color: cyan
     content: Domain acquisition and setup, domain email, and website creation and
