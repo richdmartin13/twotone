@@ -12,7 +12,7 @@ service:
     icon: fa-users
     icon_color: yellow
     content: ''
-  - title: Computer & Device Support
+  - title: Data Services
     icon: fa-mobile
     icon_color: purple
     content: Device health and recommendations, device setup and repair, troubleshooting
