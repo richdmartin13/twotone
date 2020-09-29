@@ -7,8 +7,7 @@ service:
   - title: Computer Support
     icon: fa-wifi
     icon_color: primary
-    content: Network configuration and setup, online backups, data recovery and transfer
-      & more
+    content: ''
   - title: Network & WiFi
     icon: fa-users
     icon_color: yellow
