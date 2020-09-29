@@ -36,6 +36,10 @@ service:
     icon: fa-graduation-cap
     icon_color: yellow
     content: ''
+  - title: Online services
+    icon: ''
+    icon_color: blue
+    content: ''
 feature:
   enable: true
   subtitle: fetures
