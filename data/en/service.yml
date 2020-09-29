@@ -19,8 +19,7 @@ service:
   - title: Smartphone & Tablets
     icon: fa-cloud
     icon_color: cyan
-    content: Domain acquisition and setup, domain email, and website creation and
-      setup
+    content: ''
   - title: Business Software & Communications
     icon: fa-comments
     icon_color: red
