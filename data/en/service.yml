@@ -2,7 +2,7 @@
 service:
   enable: true
   subtitle: Services
-  title: Our Service Area
+  title: Our services
   service_item:
   - title: Computer Support
     icon: fa-desktop
