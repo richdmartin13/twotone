@@ -4,6 +4,10 @@ service:
   subtitle: Services
   title: What can we do for you?
   service_item:
+  - title: Device recomendations
+    icon: ''
+    icon_color: ''
+    content: ''
   - title: Computer Support
     icon: fa-desktop
     icon_color: primary
