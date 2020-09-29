@@ -31,8 +31,7 @@ service:
   - title: Smart Home
     icon: fa-desktop
     icon_color: cyan
-    content: Perfect for gaming, servers, or every day use. Get a computer designed
-      specifically for your needs
+    content: ''
   - title: Tech Tutorials
     icon: fa-graduation-cap
     icon_color: yellow
