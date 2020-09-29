@@ -23,8 +23,7 @@ service:
   - title: Home Office & Remote Learning
     icon: fa-comments
     icon_color: red
-    content: VOIP phone system setup, video meetings and messaging, password management,
-      and office software setup
+    content: ''
   - title: Smart Home & AV Setup
     icon: fa-home
     icon_color: blue
