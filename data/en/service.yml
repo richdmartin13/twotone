@@ -24,11 +24,10 @@ service:
     icon: fa-comments
     icon_color: red
     content: ''
-  - title: Smart Home & AV Setup
+  - title: Audio & Video
     icon: fa-home
     icon_color: blue
-    content: TV and home theater setup, smart home appliance recommendations and setup,
-      and home office setup
+    content: ''
   - title: Custom Computer Setup
     icon: fa-desktop
     icon_color: cyan
