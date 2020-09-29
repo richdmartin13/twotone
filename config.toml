@@ -123,7 +123,7 @@ description = "This is meta description"
 email = "help@twotonesupport.com"
 google_analitycs_id = "Your ID"
 logo = "images/logo.png"
-mobile = ""
+mobile = "(865) 830-9504"
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
