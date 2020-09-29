@@ -35,7 +35,7 @@ service:
   - title: Tech Tutorials
     icon: fa-graduation-cap
     icon_color: yellow
-    content: Tutorials for any device or software available on request
+    content: ''
 feature:
   enable: true
   subtitle: fetures
