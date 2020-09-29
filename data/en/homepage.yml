@@ -90,4 +90,10 @@ download:
     label: app store
     link: "#"
 pricing:
-  enable: true
+  enable: false
+  pricing_table:
+  - price: ''
+    unit: ''
+    description: ''
+    link: ''
+    services: ''
