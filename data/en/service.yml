@@ -21,7 +21,7 @@ service:
     icon_color: cyan
     content: ''
   - title: Home Office & Remote Learning
-    icon: fa-comments
+    icon: fa-home
     icon_color: red
     content: ''
   - title: Audio & Video
