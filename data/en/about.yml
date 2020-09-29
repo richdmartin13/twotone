@@ -22,7 +22,7 @@ funfacts:
   - name: Businesses with Tech Management
     count: "1"
   - name: Files recovered
-    count: '20,000'
+    count: "20000"
   - name: People behind this app
     count: "80"
 service:
