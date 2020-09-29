@@ -175,11 +175,11 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 icon = "fa-facebook"
 link = "https://www.facebook.com/TwoToneSupport"
 [[params.social]]
+icon = "fa-instagram"
+link = "https://www.instagram.com/twotonesupport/"
+[[params.social]]
 icon = "fa-twitter"
-link = "https://twitter.com/themefisher"
+link = "https://twitter.com/twotonesupport"
 [[params.social]]
 icon = "fa-github"
 link = "https://github.com/themefisher"
-[[params.social]]
-icon = "fa-instagram"
-link = "https://www.instagram.com/twotonesupport/"
