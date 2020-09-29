@@ -17,7 +17,7 @@ service:
     icon_color: purple
     content: ''
   - title: Smartphone & Tablets
-    icon: fa-cloud
+    icon: fa-mobile
     icon_color: cyan
     content: ''
   - title: Home Office & Remote Learning
