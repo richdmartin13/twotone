@@ -5,7 +5,7 @@ service:
   title: Our Service Area
   service_item:
   - title: Computer Support
-    icon: fa-wifi
+    icon: fa-desktop
     icon_color: primary
     content: ''
   - title: Network & WiFi
