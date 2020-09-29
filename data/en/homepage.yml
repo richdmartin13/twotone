@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/background/banner.png
-  title: Home and Business Tech Support
+  title: Tech support for home and small business
   watermark: TwoTone
   content: Get the most out of your technology, without it getting in the way. TwoTone
     offers hourly and monthly services that make your tech work for you, not the other
@@ -26,31 +26,32 @@ about:
   - image: images/about/home.svg
     subtitle: Work from Home
     title: For Home
-    content: Get everything that you need and more for your home. Set up a new home
-      office, enhance your lifestyle with smart home appliances, or improve your home
-      theater. Just need help with your computer? We can do that, too.
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
+      aute.
     button:
       enable: true
-      label: Learn More
+      label: see plans
       link: service
   - image: images/about/business.svg
     subtitle: Work Together
     title: For Business
-    content: Get tech out of the way of your business operations and improve the efficiency
-      of your employees. Implement powerful business technologies from communications
-      systems to business software. Advertise your business with a website or a profile
-      on platforms like Facebook, LinkedIn, or Google. With all these services and
-      more, you can focus on your business and let TwoTone handle the rest.
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
+      aute.
     button:
       enable: true
-      label: Learn More
+      label: see plans
       link: service
   - image: images/about/relax.svg
     subtitle: Rest and Relax
     title: Tech Management
-    content: Join our Tech Management program and save on several of our services
-      with discounts and get access to exclusive services, too. TwoTone Tech Management
-      puts your devices in our hands so that you can focus on what matters.
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
+      aute.
     button:
       enable: true
       label: see plans
@@ -90,25 +91,3 @@ download:
     link: "#"
 pricing:
   enable: true
-  pricing_table:
-  - title: For Home (Hourly)
-    price: "0"
-    unit: hour
-    services: ''
-  - title: For Home (Monthly)
-    price: "0"
-    unit: month
-    link: ''
-    services: ''
-  - title: For Business (Hourly)
-    price: "0"
-    unit: hour
-    description: ''
-    link: ''
-    services: ''
-  - title: For Business (Monthly)
-    price: "0"
-    unit: month
-    description: ''
-    link: ''
-    services: ''
