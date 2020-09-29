@@ -1,8 +1,8 @@
 ---
 service:
   enable: true
-  subtitle: Where do you need help the most?
-  title: Our services
+  subtitle: Services
+  title: What can we do for you?
   service_item:
   - title: Computer Support
     icon: fa-desktop
