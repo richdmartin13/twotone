@@ -46,12 +46,9 @@ about:
       label: see plans
       link: service
   - image: images/about/relax.svg
-    subtitle: Rest and Relax
+    subtitle: Don't let your tech hold you back
     title: Tech Management
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
-      aute.
+    content: Technology should streamline your workday, not be a hassle.
     button:
       enable: true
       label: see plans
