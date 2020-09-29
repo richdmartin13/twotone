@@ -13,7 +13,7 @@ service:
     icon_color: yellow
     content: ''
   - title: Data Services
-    icon: fa-mobile
+    icon: fa-cloud
     icon_color: purple
     content: ''
   - title: Smartphone & Tablets
