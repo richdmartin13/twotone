@@ -4,10 +4,6 @@ service:
   subtitle: Services
   title: What can we do for you?
   service_item:
-  - title: Device Recomendations
-    icon: ''
-    icon_color: ''
-    content: ''
   - title: Computer Support
     icon: fa-desktop
     icon_color: primary
@@ -40,9 +36,13 @@ service:
     icon: fa-graduation-cap
     icon_color: yellow
     content: ''
-  - title: Online services
+  - title: Online Services
     icon: ''
     icon_color: blue
+    content: ''
+  - title: Device Recomendations
+    icon: ''
+    icon_color: ''
     content: ''
 feature:
   enable: true
