@@ -9,7 +9,7 @@ service:
     icon_color: primary
     content: Network configuration and setup, online backups, data recovery and transfer
       & more
-  - title: Business Presence & Professional Media
+  - title: Network & WiFi
     icon: fa-users
     icon_color: yellow
     content: Business profiles on Google, Facebook, and LinkedIn. Photo & Video for
