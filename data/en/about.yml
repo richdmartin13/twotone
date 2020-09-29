@@ -21,8 +21,8 @@ funfacts:
     count: "220"
   - name: Businesses with Tech Management
     count: "1"
-  - name: Totally satisfied users
-    count: "25000"
+  - name: Files recovered
+    count: '20,000'
   - name: People behind this app
     count: "80"
 service:
