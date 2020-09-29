@@ -12,8 +12,7 @@ service:
   - title: Network & WiFi
     icon: fa-users
     icon_color: yellow
-    content: Business profiles on Google, Facebook, and LinkedIn. Photo & Video for
-      business and products.
+    content: ''
   - title: Computer & Device Support
     icon: fa-mobile
     icon_color: purple
