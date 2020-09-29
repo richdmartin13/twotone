@@ -20,7 +20,7 @@ service:
     icon: fa-cloud
     icon_color: cyan
     content: ''
-  - title: Business Software & Communications
+  - title: Home Office & Remote Learning
     icon: fa-comments
     icon_color: red
     content: VOIP phone system setup, video meetings and messaging, password management,
