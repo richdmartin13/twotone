@@ -54,7 +54,7 @@ about:
       of business. '
     button:
       enable: true
-      label: see plans
+      label: Learn more
       link: service
 promo_video:
   enable: false
