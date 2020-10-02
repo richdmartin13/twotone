@@ -4,9 +4,9 @@ banner:
   bg_image: images/background/banner.png
   title: Tech support for home and small business
   watermark: TwoTone
-  content: Get the most out of your technology, without it getting in the way. TwoTone
-    offers hourly and monthly services that make your tech work for you, not the other
-    way around.
+  content: 'Your tech should work for you, not the other way around. Whether you are
+    looking for managed services, or a one-time visit, give us a call today so we
+    can send a qualified professional your way. '
   image: images/banner/hero.svg
   button:
     enable: true
