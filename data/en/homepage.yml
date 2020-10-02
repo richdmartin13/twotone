@@ -46,9 +46,13 @@ about:
       label: see plans
       link: service
   - image: images/about/relax.svg
-    subtitle: ''
+    subtitle: Small business
     title: Tech Management
-    content: ''
+    content: "Take the hassle and expense out of managing your business's tech and
+      leave it to the pros. From networking to backups to device security, we have
+      solutions for any and all of your needs. \n\nWe'll take care of your tech, so
+      you can take care of business. \n\n TekHattan can provide Fully Managed IT Services
+      and take care of all your technology related needs."
     button:
       enable: true
       label: see plans
