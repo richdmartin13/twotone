@@ -26,10 +26,9 @@ about:
   - image: images/about/home.svg
     subtitle: Support
     title: For Home
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
-      aute.
+    content: "With so many new devices coming to market today, sometimes its hard
+      to keep up with maintaining all of them! That's what we're here for. \n\nWe'll
+      set things right so you can get back to enjoying your devices."
     button:
       enable: true
       label: Learn more
