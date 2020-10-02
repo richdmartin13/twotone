@@ -32,7 +32,7 @@ about:
       aute.
     button:
       enable: true
-      label: see plans
+      label: Learn more
       link: service
   - image: images/about/business.svg
     subtitle: Support
