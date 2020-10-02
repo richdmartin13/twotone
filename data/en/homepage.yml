@@ -10,7 +10,7 @@ banner:
   image: images/banner/hero.svg
   button:
     enable: true
-    label: Learn more
+    label: Contact
     link: "#"
 partner:
   enable: false
