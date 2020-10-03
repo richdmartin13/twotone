@@ -26,10 +26,10 @@ about:
   - image: images/about/home.svg
     subtitle: Support
     title: For Home
-    content: With so many new devices coming to market today, sometimes its hard to
-      maintain them all! That's what we're here for. Whether you need support on-site,
-      remotely, or need to drop off in-shop, we'll set things right so that you can
-      get back to enjoying your devices.
+    content: With so much new tech coming to market today, sometimes its hard to maintain
+      it all! That's what we're here for. Whether you need support on-site, remotely,
+      or need to drop off in-shop, we'll set things right so that you can get back
+      to enjoying your devices.
     button:
       enable: true
       label: Learn more
