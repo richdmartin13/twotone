@@ -37,10 +37,8 @@ about:
   - image: images/about/business.svg
     subtitle: Support
     title: For Business
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
-      aute.
+    content: 'Nowadays most businesses rely heavily on technology for their workflow.
+      Tech not being '
     button:
       enable: true
       label: Learn more
