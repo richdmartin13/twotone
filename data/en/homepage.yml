@@ -5,8 +5,8 @@ banner:
   title: Tech solutions for home and small business
   watermark: TwoTone
   content: 'Your tech should work for you, not the other way around. Whether you are
-    looking for managed services, or a one-time visit, give us a call today so we
-    can send a qualified professional your way. '
+    looking for managed services, or a one-time visit, give us a call and we will
+    send a qualified professional your way. '
   image: images/banner/hero.svg
   button:
     enable: true
