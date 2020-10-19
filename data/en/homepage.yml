@@ -37,8 +37,9 @@ about:
   - image: images/about/business.svg
     subtitle: Support
     title: For Business
-    content: 'Nowadays most businesses rely heavily on technology for their workflow.
-      Tech not being '
+    content: "Nowadays most businesses rely heavily on technology for their workflow.
+      When your \n\nDon't let technology hold your business back. At TwoTone we know
+      how critical "
     button:
       enable: true
       label: Learn more
