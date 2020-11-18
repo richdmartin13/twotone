@@ -1,6 +1,6 @@
 ---
 about:
-  enable: false
+  enable: true
   video_bg_image: images/about/about-3.jpg
   video_thumbnail: images/about/about-4.jpg
   video_link: https://www.youtube.com/watch?v=VufDd-QL1c0
@@ -14,6 +14,12 @@ about:
     enable: true
     label: Contact Us
     link: contact
+  about_item:
+  - image: ''
+    subtitle: ''
+    title: ''
+    content: ''
+    button: ''
 funfacts:
   enable: true
   funfact_item:
