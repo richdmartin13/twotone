@@ -59,6 +59,11 @@ testimonial:
   subtitle: testimonial
   title: Don't Just Take it From Us
   testimonial_item:
+  - name: 'Marissa M. '
+    designation: Via Google Reviews
+    content: " I had a problem with my laptop last year, and TwoTone figured out what
+      was wrong with it and fixed it within an hour. Now every time somebody in my
+      apartment has a tech problem we call TwoTone! Best IT service I have ever had."
   - name: 'Gill P. '
     designation: ''
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
