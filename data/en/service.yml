@@ -20,7 +20,7 @@ service:
     icon: fa-mobile
     icon_color: cyan
     content: ''
-  - title: iPhone screen & back repair
+  - title: iPhone screen & backglass repair
     icon: fa-mobile
     icon_color: red
     content: ''
