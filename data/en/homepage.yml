@@ -37,9 +37,10 @@ about:
   - image: images/about/business.svg
     subtitle: Support
     title: For Business
-    content: "Nowadays most businesses rely heavily on technology for their workflow.
-      When your \n\nDon't let technology hold your business back. At TwoTone we know
-      how critical it is to keep"
+    content: 'We know how important technology is in your businesses day to day workflow.
+      Your time is money, and uptime is critical to help you serve your clients best.
+      Don''t let your technology hold you back, contact us and we''ll have your systems
+      running smoothly and how they should. '
     button:
       enable: true
       label: Learn more
