@@ -45,7 +45,7 @@ service:
     icon_color: ''
     content: ''
 feature:
-  enable: true
+  enable: false
   subtitle: fetures
   title: exclusive features
   feature_item:
