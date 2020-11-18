@@ -26,4 +26,4 @@ funfacts:
   - name: Services offered
     count: "50"
 service:
-  enable: true
+  enable: false
