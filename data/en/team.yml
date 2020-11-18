@@ -4,15 +4,7 @@ team:
   subtitle: At TwoTone
   title: Our Team
   team_member:
-  - name: Justine Marshall
-    image: images/team/team-member-1.jpg
-    designation: Designer
-    social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-pinterest-p
-      link: "#"
+  - name: Miklos Obrusanszki
+    image: ''
+    designation: Owner & Lead Tech
+    social: []
