@@ -44,17 +44,6 @@ about:
       enable: true
       label: Learn more
       link: service
-  - image: images/about/relax.svg
-    subtitle: Small business
-    title: Tech Management
-    content: 'Take the hassle and expense out of managing your tech and leave it to
-      the pros. From networking to backups to device security, we have solutions for
-      any and all of your businesses needs. We''ll take care of your tech, so you
-      can take care of business. '
-    button:
-      enable: true
-      label: Learn more
-      link: service
 promo_video:
   enable: false
   video_thumbnail: images/check-video.png
