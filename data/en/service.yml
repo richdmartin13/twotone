@@ -26,7 +26,7 @@ service:
     content: ''
   - title: Home Office & Remote Learning
     icon: fa-home
-    icon_color: red
+    icon_color: purple
     content: ''
   - title: Audio & Video
     icon: fa-home
