@@ -1,9 +1,9 @@
 ---
 about:
   enable: true
-  video_bg_image: images/about/about-3.jpg
-  video_thumbnail: images/about/about-4.jpg
-  video_link: https://www.youtube.com/watch?v=VufDd-QL1c0
+  video_bg_image: ''
+  video_thumbnail: ''
+  video_link: ''
   subtitle: About Agico
   title: Eausmod tempor magna nostrud exercitation
   content: Lorem ipsum dolor sit amet consectetur adipicing elit sed do usmod tempor
