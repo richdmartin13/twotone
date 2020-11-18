@@ -15,10 +15,10 @@ about:
     label: Contact Us
     link: contact
   about_item:
-  - image: ''
-    subtitle: ''
-    title: ''
-    content: ''
+  - image: test
+    subtitle: test
+    title: test
+    content: test
     button: ''
 funfacts:
   enable: true
