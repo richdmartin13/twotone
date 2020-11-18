@@ -21,8 +21,8 @@ service:
     icon_color: cyan
     content: ''
   - title: iPhone screen & back repair
-    icon: ''
-    icon_color: ''
+    icon: fa-mobile
+    icon_color: red
     content: ''
   - title: Home Office & Remote Learning
     icon: fa-home
