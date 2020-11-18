@@ -59,6 +59,11 @@ testimonial:
   subtitle: testimonial
   title: Don't Just Take it From Us
   testimonial_item:
+  - name: 'Gill P. '
+    designation: ''
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+      quis nostrud exercitation ullamco laboris nisi.
   - name: Richard Martin
     designation: DropByte Founder
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
