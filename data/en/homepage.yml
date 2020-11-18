@@ -60,6 +60,11 @@ testimonial:
   subtitle: testimonials
   title: Don't Just Take it From Us
   testimonial_item:
+  - name: 'Alyssa M. '
+    designation: Via Hubspot Review
+    content: My computer hadn’t been working for months and they got it fixed and
+      working great in just a couple hours. Highly recommend if you need some technical
+      help!!
   - name: Gillian P.
     designation: Via Hubspot Review
     content: Listened well and was very patient as I am not a technical person. Worked
