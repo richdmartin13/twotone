@@ -59,6 +59,10 @@ testimonial:
   subtitle: testimonial
   title: Don't Just Take it From Us
   testimonial_item:
+  - name: 'Fred A. '
+    designation: Via Google Reviews
+    content: Another great experience with Two Tone Tech Support. I am so happy I
+      found them.
   - name: 'Marissa M. '
     designation: Via Google Reviews
     content: " I had a problem with my laptop last year, and TwoTone figured out what
