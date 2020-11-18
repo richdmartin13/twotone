@@ -4,7 +4,7 @@ pricing:
   subtitle: Pricing table
   title: choose your plan
   pricing_table:
-  - title: Home
+  - title: Home Support
     price: "$60"
     unit: hour
     description: ''
