@@ -4,10 +4,6 @@ service:
   subtitle: Services
   title: What can we do for you?
   service_item:
-  - title: iPhone screen and backglass replacement
-    icon: ''
-    icon_color: ''
-    content: ''
   - title: Computer Support
     icon: fa-desktop
     icon_color: primary
@@ -20,9 +16,13 @@ service:
     icon: fa-cloud
     icon_color: purple
     content: ''
-  - title: Smartphone & Tablets
+  - title: Smartphone & Tablet support
     icon: fa-mobile
     icon_color: cyan
+    content: ''
+  - title: iPhone screen and backglass replacement
+    icon: ''
+    icon_color: ''
     content: ''
   - title: Home Office & Remote Learning
     icon: fa-home
