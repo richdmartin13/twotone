@@ -22,8 +22,8 @@ type: post
 ---
 ### What to look out for:
 
-##### 1. New test Long random email account in the from address
+##### 1. Long random email account in the from address
 
 As a rule of thumb, if it's a long address with random characters, it isn't legitimate.
 
-> Ex: Email from "Uber" with the email address "sadfadfue@online.io"
+> Ex: Email from "Uber" with the email address "sadfadfue"@online.io
