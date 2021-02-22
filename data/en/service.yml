@@ -22,7 +22,7 @@ feature:
   title: exclusive features
   feature_item:
   - title: Exclusive Design
-    icon: fa-desktop
+    icon: fa-house
     icon_color: primary
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
