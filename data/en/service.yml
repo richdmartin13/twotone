@@ -16,50 +16,6 @@ service:
     icon: fa-cloud
     icon_color: Yellow
     content: Testing
-  - title: Computer Support
-    icon: fa-desktop
-    icon_color: primary
-    content: ''
-  - title: Network & WiFi
-    icon: fa-wifi
-    icon_color: yellow
-    content: ''
-  - title: Data Services
-    icon: fa-cloud
-    icon_color: purple
-    content: ''
-  - title: Smartphone & Tablet support
-    icon: fa-mobile
-    icon_color: cyan
-    content: ''
-  - title: iPhone screen & backglass repair
-    icon: fa-mobile
-    icon_color: red
-    content: ''
-  - title: Home Office & Remote Learning
-    icon: fa-home
-    icon_color: purple
-    content: ''
-  - title: Audio & Video
-    icon: fa-home
-    icon_color: blue
-    content: ''
-  - title: Smart Home
-    icon: fa-desktop
-    icon_color: cyan
-    content: ''
-  - title: Tech Tutorials
-    icon: fa-graduation-cap
-    icon_color: yellow
-    content: ''
-  - title: Online Services
-    icon: ''
-    icon_color: blue
-    content: ''
-  - title: Device Recomendations
-    icon: ''
-    icon_color: ''
-    content: ''
 feature:
   enable: false
   subtitle: fetures
