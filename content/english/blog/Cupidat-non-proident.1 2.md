@@ -2,11 +2,11 @@
 title: 'Safe Online Habits: Email'
 date: 2021-02-22T05:00:00+00:00
 watermark: Blog
-bg_image: https://drive.google.com/file/d/1foxV8eV21eXuuNpjaKy-AKQUSxG2XR6j/view?usp=sharing
+bg_image: ''
 description: Have you received a suspicious email and aren't sure how to confirm its
   validity? We've got a guide that will help keep you safe! If you are still uncertain
   about an email, don't hesitate to contact us! We are always happy to help.
-image: images/blog/blog-post-1.jpg
+image: https://drive.google.com/file/d/1foxV8eV21eXuuNpjaKy-AKQUSxG2XR6j/view?usp=sharing
 author: Miklos Obrusanszki
 categories:
 - Investment Planning
