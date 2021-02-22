@@ -10,7 +10,7 @@ service:
     content: Testing
   - title: Remote
     icon: fa-desktop
-    icon_color: primary
+    icon_color: purple
     content: Testing
   - title: In-Shop
     icon: ''
