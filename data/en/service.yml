@@ -13,9 +13,9 @@ service:
     icon_color: purple
     content: Testing
   - title: In-Shop
-    icon: ''
-    icon_color: ''
-    content: ''
+    icon: fa-cloud
+    icon_color: Yellow
+    content: Testing
   - title: Computer Support
     icon: fa-desktop
     icon_color: primary
