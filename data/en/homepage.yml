@@ -11,7 +11,7 @@ banner:
   button:
     enable: true
     label: Contact us
-    link: "#"
+    link: "#conta"
 partner:
   enable: false
   partner_logo: []
@@ -105,9 +105,4 @@ download:
     link: "#"
 pricing:
   enable: false
-  pricing_table:
-  - price: ''
-    unit: ''
-    description: ''
-    link: ''
-    services: ''
+  pricing_table: []
