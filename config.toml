@@ -15,9 +15,6 @@ languageName = "En"
 weight = 1
 [[Languages.en.menu.footer]]
 URL = "about"
-name = "Company History"
-[[Languages.en.menu.footer]]
-URL = "about"
 name = "About us"
 [[Languages.en.menu.footer]]
 URL = "contact"
@@ -26,7 +23,7 @@ name = "Contact us"
 URL = "service"
 name = "Services"
 [[Languages.en.menu.footer]]
-URL = "#"
+URL = "https://www.freeprivacypolicy.com/live/1dbfbe3f-6f52-450f-acb1-dae293f06159"
 name = "Privacy Policy"
 [[Languages.en.menu.main]]
 URL = "about"
