@@ -20,8 +20,8 @@ name = "About us"
 URL = "contact"
 name = "Contact us"
 [[Languages.en.menu.footer]]
-URL = "service"
-name = "Services"
+URL = "https://www.freeprivacypolicy.com/live/a571745a-96df-4b8a-8dfb-ef3342496cc6"
+name = "Terms and Conditions"
 [[Languages.en.menu.footer]]
 URL = "https://www.freeprivacypolicy.com/live/1dbfbe3f-6f52-450f-acb1-dae293f06159"
 name = "Privacy Policy"
