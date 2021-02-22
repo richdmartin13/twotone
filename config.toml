@@ -8,7 +8,7 @@ title = "TwoTone | Technical Support"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-footer_content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam quis nostrud exercitation ullamaboris nisi ut aliquip.exea commodo consequat. Duis aute irure dolor in reprehenderit."
+footer_content = "TwoTone Technical Support strives to provide worry-free, consistent tech support to homes and small businesses. We document thoroughly, and do not let requests slip through the cracks. We are responsive, as we know your time is precious, and strive to solve your issues in a way that best suits you."
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
