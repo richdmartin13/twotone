@@ -9,7 +9,7 @@ service:
     icon_color: ''
     content: ''
   - title: Remote
-    icon: ''
+    icon: fa-desktop
     icon_color: ''
     content: ''
   - title: In-Shop
