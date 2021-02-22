@@ -24,17 +24,13 @@ type: post
 
 ##### 1. Long random email account in the from address
 
+As a rule of thumb, if it's a long address with random characters, it isn't legitimate.
 
-Test As a rule of thumb, if it's a long address with random characters, it isn't legitimate.
-
-
-
-test 2An example would be an email from "Uber" with the address from "sadfadfue@online.io
+An example would be an email from "Uber" with the address from "sadfadfue@online.io"
 
 > Note: Sometimes the actual address is hidden slightly behind the email account's display name. To show the actual address, there should be a little ^ arrow.
 
 ##### 2. Email looks different than usual trusted emails
-
 
 If you've received an email that claims to be from a trusted source, such as your bank, but looks different than you are used to, be careful! This could be a phishing email. A phishing email tries to simulate an email from a trusted company, but in reality will steal your information.
 
@@ -48,7 +44,7 @@ Another tell is an email from a company that is sent from a regular gmail/yahoo/
 
 * Ex: Email from "Uber" with the email address "ubersupport123@gmail.com"
 
-Note: You can check the from address in the same way mentioned in part 1!
+> You can check the from address in the same way mentioned in part 1!
 
 ##### 4. Unsolicited email asking for personal information
 
