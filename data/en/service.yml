@@ -12,6 +12,10 @@ service:
     icon: ''
     icon_color: ''
     content: ''
+  - title: In-Shop
+    icon: ''
+    icon_color: ''
+    content: ''
   - title: Computer Support
     icon: fa-desktop
     icon_color: primary
