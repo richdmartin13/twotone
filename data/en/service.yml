@@ -22,7 +22,7 @@ feature:
   title: Support wherever you need it most
   feature_item:
   - title: On-Site
-    icon: fa-house
+    icon: fa-home
     icon_color: primary
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
