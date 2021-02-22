@@ -1,7 +1,7 @@
 ---
 title: 'Safe Online Habits: Email'
 date: 2021-02-22T05:00:00+00:00
-watermark: Blog
+watermark: 'Safe Online Habits: Email'
 bg_image: ''
 description: Have you received a suspicious email and aren't sure how to confirm its
   validity? We've got a guide that will help keep you safe! If you are still uncertain
