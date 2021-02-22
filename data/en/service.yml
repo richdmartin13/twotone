@@ -28,7 +28,7 @@ feature:
       labore dolore magna.
     name: On Site
   - title: Remote
-    icon: fa-computer
+    icon: fa-desktop
     icon_color: primary
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
