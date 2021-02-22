@@ -17,7 +17,7 @@ service:
     icon_color: Yellow
     content: Testing
 feature:
-  enable: false
+  enable: true
   subtitle: fetures
   title: exclusive features
   feature_item:
