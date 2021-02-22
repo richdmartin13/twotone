@@ -27,6 +27,8 @@ type: post
 
 Test As a rule of thumb, if it's a long address with random characters, it isn't legitimate.
 
+
+
 An example would be an email from "Uber" with the address from "sadfadfue@online.io
 
 > Note: Sometimes the actual address is hidden slightly behind the email account's display name. To show the actual address, there should be a little ^ arrow.
