@@ -63,3 +63,13 @@ Always follow suggestions 1 - 4 when confirming the validity of the email before
 It is also definitely worth checking on an official company site for their support email, and contacting them to check the validity of the email sent to you!
 
 * Suspicious email received from "Uber." Go to help.uber.com, find their legitimate support email, and email them to check the validity of the suspicious email you received.
+
+### What to do with a confirmed illegitimate email:
+
+##### 1. Delete and report!
+
+Once you have confirmed that an email is not legitimate, report the email as spam in your email client, and then delete it! Reporting the email as spam helps email filtration systems protect people in the future.
+
+##### More Resources:
+
+* [How to Recognize and Avoid Phishing Scams (FTC.gov)](https://www.consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
