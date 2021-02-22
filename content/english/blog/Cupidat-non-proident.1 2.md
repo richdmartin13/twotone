@@ -3,8 +3,8 @@ title: 'Safe Online Habits: Email'
 date: 2021-02-22T05:00:00+00:00
 watermark: Blog
 bg_image: images/background/about.jpg
-description: Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim
-  idest laborum sed ut perspiciatis.
+description: Have you received a suspicious email and aren't sure how to confirm its
+  validity? We've got a guide that will help keep you safe!
 image: images/blog/blog-post-1.jpg
 author: Admin
 categories:
