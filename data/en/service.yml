@@ -26,7 +26,7 @@ feature:
     icon_color: primary
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
-    name: Testing
+    name: On Site
   - title: Easy Customize
     icon: fa-gears
     icon_color: primary
