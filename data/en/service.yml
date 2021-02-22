@@ -27,13 +27,14 @@ feature:
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
     name: On Site
-  - title: Easy Customize
-    icon: fa-gears
+  - title: Remote
+    icon: fa-computer
     icon_color: primary
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
-  - title: Extreme Security
-    icon: fa-shield
+    name: Remote
+  - title: Easy Customize
+    icon: fa-gears
     icon_color: primary
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
       labore dolore magna.
