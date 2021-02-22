@@ -52,4 +52,14 @@ If you have received an email asking for any personal information, always be ske
 
 ##### 5. Unsolicited email with links (phishing links)
 
+When you receive a seemingly innocent email with any links be careful! Phishing links (links that are meant to deceive) can have harmful downloads attached, or can send you to pages pretend to be logins for other sites that then steal your passwords!
+
+Always follow suggestions 1 - 4 when confirming the validity of the email before following any links!
+
 ### Confirming the validity of an email
+
+##### 1. Check with a trusted source
+
+It is also definitely worth checking on an official company site for their support email, and contacting them to check the validity of the email sent to you!
+
+* Suspicious email received from "Uber." Go to help.uber.com, find their legitimate support email, and email them to check the validity of the suspicious email you received.
