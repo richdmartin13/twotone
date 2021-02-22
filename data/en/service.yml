@@ -21,7 +21,7 @@ feature:
   subtitle: fetures
   title: exclusive features
   feature_item:
-  - title: Exclusive Design
+  - title: On-Site
     icon: fa-house
     icon_color: primary
     content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
