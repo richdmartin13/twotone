@@ -7,7 +7,7 @@ service:
   - title: On-Site
     icon: fa-home
     icon_color: blue
-    content: 'Testing '
+    content: Testing
   - title: Remote
     icon: fa-desktop
     icon_color: primary
