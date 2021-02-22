@@ -8,6 +8,10 @@ service:
     icon: ''
     icon_color: ''
     content: ''
+  - title: Remote
+    icon: ''
+    icon_color: ''
+    content: ''
   - title: Computer Support
     icon: fa-desktop
     icon_color: primary
