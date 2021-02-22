@@ -18,8 +18,8 @@ service:
     content: Testing
 feature:
   enable: true
-  subtitle: fetures
-  title: exclusive features
+  subtitle: Services
+  title: Support wherever you need it most
   feature_item:
   - title: On-Site
     icon: fa-house
