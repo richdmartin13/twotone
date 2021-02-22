@@ -4,7 +4,7 @@ disqusShortname = "twotone"
 paginate = "6"
 summaryLength = "10"
 theme = "agico-hugo"
-title = "TwoTone | Tech Solutions for Home & Business"
+title = "TwoTone | Technical Support"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -51,10 +51,6 @@ weight = 6
 [[Languages.en.menu.main]]
 URL = "pricing"
 name = "Pricing"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "career"
-name = "Career"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "team"
