@@ -25,7 +25,7 @@ type: post
 ##### 1. Long random email account in the from address
 
 
-As a rule of thumb, if it's a long address with random characters, it isn't legitimate.
+Test As a rule of thumb, if it's a long address with random characters, it isn't legitimate.
 
 An example would be an email from "Uber" with the address from "sadfadfue@online.io
 
