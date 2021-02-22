@@ -11,7 +11,7 @@ service:
   - title: Remote
     icon: fa-desktop
     icon_color: primary
-    content: ''
+    content: Testing
   - title: In-Shop
     icon: ''
     icon_color: ''
