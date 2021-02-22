@@ -26,4 +26,4 @@ type: post
 
 As a rule of thumb, if it's a long address with random characters, it isn't legitimate.
 
-> Ex: Email from "Uber" with the email address sadfadfue@online.io
+> Ex: Email from "Uber" with the email address "sadfadfue@online.io"
