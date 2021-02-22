@@ -6,8 +6,8 @@ service:
   service_item:
   - title: On-Site
     icon: fa-home
-    icon_color: ''
-    content: ''
+    icon_color: blue
+    content: 'Testing '
   - title: Remote
     icon: fa-desktop
     icon_color: primary
